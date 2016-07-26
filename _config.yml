@@ -1,6 +1,6 @@
 name: beni
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 1
 typography_spectrum: 0.32102
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#CEAFC0'
   brandStrength: 0.375
   lightness: 0.7493502551224083
-  saturation: 0.7754377126693726
+  saturation: 0.6875
   rhythmicContrast: 0.32446684897877276
 purpose: []

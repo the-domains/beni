@@ -1,0 +1,28 @@
+name: beni
+favicon: null
+layout_spectrum: 0.7495144850108773
+typography_spectrum: 0.7700110094156116
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.38323057000525296
+  lightness: 0.7493502551224083
+  saturation: 0.7754377126693726
+  rhythmicContrast: 0.32446684897877276
+purpose: []

@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[beni]]></title>
         <description><![CDATA[beni]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/beni/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 17:34:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 17:45:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beni/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f616da23-3cca-43b0-a80b-01f5962945db.jpg">]]></description>
+            <link>https://thegrid.ai/beni/this-took-countless-hours-but-the-end-result-makes-me-think/index.html</link>
+            <guid isPermaLink="false">deb7ed17-4cc9-4281-a313-2d81e12beccc</guid>
+            <pubDate>Tue, 26 Jul 2016 17:45:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/34dc07b9-327f-4063-84a6-2a1ccbdecb1f.jpg">]]></description>
-            <link>undefinedme-and-my-friends-love-to-play-poker-so-i-built-a-poker-tab/index.html</link>
+            <link>https://thegrid.ai/beni/me-and-my-friends-love-to-play-poker-so-i-built-a-poker-tab/index.html</link>
             <guid isPermaLink="false">21a32401-d5ad-4989-b987-b08c962669b9</guid>
             <pubDate>Tue, 26 Jul 2016 17:34:37 GMT</pubDate>
         </item>
